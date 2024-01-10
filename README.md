@@ -1,1 +1,1 @@
-### Barebones Shopify 2.0 Theme Starter
+### My First Shopify Theme
